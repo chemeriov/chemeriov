@@ -8,3 +8,4 @@ I don't intend on doing much here, so sorry if you're expecting something substa
 - 💬 Ask me about C++, Qt, or Unreal Engine 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: [this is my brother](https://github.com/LukeChemeriov)
+- 🌍 Nationality: Russian  🇷🇺 (don't hate on me for it tho)
