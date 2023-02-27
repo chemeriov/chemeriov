@@ -1,11 +1,10 @@
-### Hi there 👋
+### Приветик 👋
 
-My name is Poppy Chemeriov 👋🏻
-I don't intend on doing much here, so sorry if you're expecting something substantial.
+Меня зовут Поппи Чемериов 👋🏻.
+Я не собираюсь делать здесь много, так что извини, если вы ожидаете чего-то существенного.
 
-- 🔭 I’m currently working on C++ projects, and *ethical* hacking 
-- 🌱 I’m currently learning C
-- 💬 Ask me about C++, Qt, or Unreal Engine 
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: [this is my brother](https://github.com/LukeChemeriov)
-- 🌍 Nationality: Russian  🇷🇺 (don't hate on me for it tho)
+- 🔭 В настоящее время я работаю над проектами на C++, и *этичным* хакингом 
+- 🌱 В настоящее время я изучаю C
+- 💬 Спросите меня о хакинге, Python, C++, Qt или Unreal Engine 
+- ⚡ Забавный факт: [это мой брат](https://github.com/LukeChemeriov)
+- 🌍 Национальность: русский 🇷🇺 (не надо меня за это ненавидеть)
